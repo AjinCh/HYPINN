@@ -1,0 +1,61 @@
+[2C]
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/2C_battery-1.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/2C_battery-2.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/2C_battery-3.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/2C_battery-4.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/2C_battery-5.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/2C_battery-6.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/2C_battery-7.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/2C_battery-8.csv
+[3C]
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/3C_battery-1.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/3C_battery-10.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/3C_battery-11.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/3C_battery-12.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/3C_battery-13.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/3C_battery-14.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/3C_battery-15.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/3C_battery-2.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/3C_battery-3.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/3C_battery-4.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/3C_battery-5.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/3C_battery-6.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/3C_battery-7.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/3C_battery-8.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/3C_battery-9.csv
+[R2.5]
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/R2.5_battery-1.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/R2.5_battery-2.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/R2.5_battery-3.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/R2.5_battery-4.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/R2.5_battery-5.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/R2.5_battery-6.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/R2.5_battery-7.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/R2.5_battery-8.csv
+[R3]
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/R3_battery-1.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/R3_battery-2.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/R3_battery-3.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/R3_battery-4.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/R3_battery-5.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/R3_battery-6.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/R3_battery-7.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/R3_battery-8.csv
+[RW]
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/RW_battery-1.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/RW_battery-2.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/RW_battery-3.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/RW_battery-4.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/RW_battery-5.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/RW_battery-6.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/RW_battery-7.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/RW_battery-8.csv
+[satellite]
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/Sim_satellite_battery-1.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/Sim_satellite_battery-2.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/Sim_satellite_battery-3.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/Sim_satellite_battery-4.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/Sim_satellite_battery-5.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/Sim_satellite_battery-6.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/Sim_satellite_battery-7.csv
+  /Users/ajinthomas/Documents/GitHub/HYPINN/data/Dataset_A/Sim_satellite_battery-8.csv
